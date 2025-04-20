@@ -33,3 +33,33 @@ This project simulates an eCommerce storefront experience, letting users:
 1. **Install dependencies:**
    ```bash
    npm install
+
+   npm run dev
+2.Open in browser: Visit http://localhost:5173
+
+📁 Pages Included
+
+Home – Product cards with "Add to Cart"
+
+Product Listing + Detail – Browse and view each item
+
+Cart – Manage items, adjust quantity, and view total
+
+Search – Filter by product name or category
+
+About – Info about the business
+
+Contact Us –  on Whatsapp- +918726735025
+
+🤝 Contributing
+Pull requests are welcome. If you're learning, feel free to fork and experiment!
+
+📄 License
+This project is for learning and demo purposes only.
+
+
+---
+
+Let me know if you want it saved to a real `README.md` file or zipped into your project!
+
+
