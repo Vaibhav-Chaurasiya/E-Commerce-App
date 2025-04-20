@@ -35,21 +35,23 @@ This project simulates an eCommerce storefront experience, letting users:
    npm install
 
    npm run dev
-2.Open in browser: Visit http://localhost:5173
+2. **Open in browser**:
+
+   -Visit http://localhost:5173
 
 📁 Pages Included
 
-Home – Product cards with "Add to Cart"
+-Home – Product cards with "Add to Cart"
 
-Product Listing + Detail – Browse and view each item
+-Product Listing + Detail – Browse and view each item
 
-Cart – Manage items, adjust quantity, and view total
+-Cart – Manage items, adjust quantity, and view total
 
-Search – Filter by product name or category
+-Search – Filter by product name or category
 
-About – Info about the business
+-About – Info about the business
 
-Contact Us –  on Whatsapp- +918726735025
+-Contact Us –  on Whatsapp- +918726735025
 
 🤝 Contributing
 Pull requests are welcome. If you're learning, feel free to fork and experiment!
