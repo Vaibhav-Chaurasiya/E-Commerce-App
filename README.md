@@ -51,7 +51,7 @@ This project simulates an eCommerce storefront experience, letting users:
 
 - About – Info about the business
 
-- Contact Us –  on Whatsapp- +918726735025
+- Contact Us –  On Whatsapp - +918726735025
 
 🤝 Contributing
 - Pull requests are welcome. If you're learning, feel free to fork and experiment!
